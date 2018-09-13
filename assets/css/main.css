@@ -55,6 +55,16 @@ body {
 	-webkit-text-size-adjust: none;
 }
 
+.skills ul {
+	list-style:none;
+	padding:0;
+}
+
+.skills ul li {
+	list-style:none;
+	padding:0;
+}
+
 mark {
 	background-color: transparent;
 	color: inherit;
